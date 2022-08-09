@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathisdreher
 - 👀 I’m interested in data projects
-- 🌱 I’m currently learning python and RPA
+- 🌱 I’m currently learning Python and RPA
 - 💞️ I’m looking to collaborate on high impact projects
 - 📫 How to reach me => https://twitter.com/mathis_dreher
 
