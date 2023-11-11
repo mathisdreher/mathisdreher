@@ -6,7 +6,7 @@
 
 👀 I am particularly drawn to data projects that have a tangible impact, addressing real-world challenges and making a meaningful difference.
 
-📫 Feel free to connect with me on Twitter at https://twitter.com/mathis_dreher or explore my GitHub profile. I am excited about building connections and collaborating with like-minded individuals!
+📫 Feel free to connect with me on Twitter at https://twitter.com/mathisdreher or explore my GitHub profile. I am excited about building connections and collaborating with like-minded individuals!
 
 Let's leverage the power of data together and create a positive impact on the world!
 
